@@ -1,7 +1,7 @@
 # Lab 3 — Deep Learning: relevance classification (RNN / GRU / LSTM) and GPT-2 text generation
 
 **Topic:** education in Morocco (Arabic texts)  
-**Master MBD — Deep Learning — Pr. Elaachak Lotfi — FST Tanger**
+**Deep Learning— FST Tanger**
 
 **Part 1:** RNN, Bidirectional RNN, GRU, LSTM (PyTorch) compared with a TF-IDF + logistic regression baseline  
 **Part 2:** fine-tuning of a pretrained GPT-2 model on a custom corpus and text generation
